@@ -1,8 +1,31 @@
+
+ # Hello, I am Hex_Case
  
+ <img align="left" src="https://github.com/hexcase/hexcase/blob/main/images/HappyHacker.jpg" alt="Just a Happy Hex_Case" width="320" />
+<hr>
+
 ```
-  _     _ _______ _     _       _______ _______ _______ _______
-  |_____| |______  \___/        |       |_____| |______ |______
-  |     | |______ _/   \_ _____ |_____  |     | ______| |______
+hex_case@protonmail.com
+-------------------------
+💠 I am a Cybersecurity enthusiast.
+💠 I love embedded systems and microcontrollers.
+💠 Coder at night, debugger durring the day (and night).
+💠 Linux User.
+💠 I am also a mediocre musician.
+💠 I have a thing for retro computers.
+💠 I use Nvim (incorrectly) :wq
+
+Yes I want to see your code art.
 ```
-  Hi I am Hex_Case and I can't code for shit but I am trying really hard.
-  
+<hr>
+ 
+ ### 👨‍💻 Programming Languages
+
+<p>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+ 
+ 

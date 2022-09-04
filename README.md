@@ -29,10 +29,10 @@ hex_case@protonmail.com
  </p>
  
  <hr>
- <p>
-    If you have any questions about my tools please understand that so do I, but feel free to message me regardless. 
 
+If you have any questions about my tools please understand that so do I, but feel free to message me regardless. 
 
-    Yes I want to see your code art.
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=HexCase.repoName" alt="These badges reminds me of MySpace">
-</p>
+Yes I want to see your code art.
+ 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=HexCase.repoName" alt="These badges reminds me of MySpace">
+

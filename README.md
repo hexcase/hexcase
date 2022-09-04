@@ -2,8 +2,7 @@
  # Hello, I am Hex_Case
  
  <img align="left" src="https://github.com/hexcase/hexcase/blob/main/images/HappyHacker.jpg" alt="Just a Happy Hex_Case" width="320" />
-<hr>
-
+ 
 ```
 hex_case@protonmail.com
 -------------------------
@@ -15,7 +14,6 @@ hex_case@protonmail.com
 💠 I have a thing for retro computers.
 💠 I use Nvim (incorrectly) :wq
 
-Yes I want to see your code art.
 ```
 <hr>
  
@@ -30,5 +28,11 @@ Yes I want to see your code art.
     <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
  </p>
  
-If you have any questions about my tools please understand that so do I, but feel free to message me regardless. 
+ <hr>
+ <p>
+    If you have any questions about my tools please understand that so do I, but feel free to message me regardless. 
 
+
+    Yes I want to see your code art.
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=HexCase.repoName" alt="These badges reminds me of MySpace">
+</p>

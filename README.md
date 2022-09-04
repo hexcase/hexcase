@@ -26,6 +26,9 @@ Yes I want to see your code art.
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
+ </p>
  
- 
+If you have any questions about my tools please understand that so do I, but feel free to message me regardless. 
+

@@ -29,7 +29,10 @@ hex_case@protonmail.com
  </p>
  
  <hr>
-
+ 
+ Currently working on a Database driven webcrawler.
+ 
+ <hr>
 If you have any questions about my tools please understand that so do I, but feel free to message me regardless. 
 
 Yes I want to see your code art.
